@@ -1,4 +1,4 @@
-# Deep RAG: An LLM-Dominated  Global Deep  Autonomous Paradigm for Retrieval-Augmented Generation
+# Deep RAG: An LLM-Dominated Non-Vectorial Global Deep Autonomous Paradigm for Retrieval-Augmented Generation
 
 ---
 
