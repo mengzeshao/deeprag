@@ -1,4 +1,4 @@
-# Deep RAG: An LLM-Dominated Global Deep Non-Vectorial Paradigm for Retrieval-Augmented Generation
+# Deep RAG: An LLM-Dominated  Global Deep  Autonomous Paradigm for Retrieval-Augmented Generation
 
 ---
 
@@ -6,7 +6,7 @@
 
 Initially, I adopted mainstream Embedding RAG solutions, but the Q&A accuracy was unsatisfactory, especially for questions involving multiple knowledge points and deep semantics. Often, relevant content wasn't retrieved at the outset, leading to incorrect answers. I tried various methods to improve recall, including adjusting document structure, modifying chunking strategies, switching Embedding models, introducing hybrid search, and adding reranking models. Frankly, the results were underwhelming.
 
-This led me to a deeper investigation into RAG, where I discovered that mainstream vector-based solutions have significant shortcomings, their capabilities far inferior to those of LLMs themselves. This realization sparked what I consider my proudest innovation: a self-developed, LLM-based, global, deep, non-vectorial RAG solution. In this system, the LLM orchestrates the entire RAG process. I've named it **LLM RAG**. It can even perform "Deep Research" on private knowledge bases, hence an alternative name: **Deep RAG**. On our evaluation dataset, the recall rate reached a staggering **100%**! This approach completely redefines the three core stages: Segmentation, Indexing, and Retrieval.
+This led me to a deeper investigation into RAG, where I discovered that mainstream vector-based solutions have significant shortcomings, their capabilities far inferior to those of LLMs themselves. This realization sparked what I consider my proudest innovation: a self-developed, LLM-based, non-vectorial, global, deep, Autonomous RAG solution. In this system, the LLM orchestrates the entire RAG process. I've named it **LLM RAG**. It can even perform "Deep Research" on private knowledge bases, hence an alternative name: **Deep RAG**. On our evaluation dataset, the recall rate reached a staggering **100%**! This approach completely redefines the three core stages: Segmentation, Indexing, and Retrieval.
 
 ---
 
