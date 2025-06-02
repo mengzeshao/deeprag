@@ -441,5 +441,3 @@ The emergence of Deep RAG marks the evolution of RAG technology from a stage of 
 *   Berrios, V. R., & Papadamitriou, N. (2024). Active Retrieval Augmented Generation. *arXiv preprint arXiv:2305.06983*.
 *   Asai, A., Hashimoto, T., & Lewis, M. (2023). Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection. *arXiv preprint arXiv:2310.11511*.
 *   Jiang, H., et al. (2023). LlamaIndex: A Project to Connect LLMs with External Data.
-
-```
