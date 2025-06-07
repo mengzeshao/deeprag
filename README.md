@@ -36,7 +36,7 @@ Traditional Retrieval-Augmented Generation (RAG) systems, especially those based
         *   [2.3.3 Deep RAG Process](#233-deep-rag-process)
         *   [2.3.4 Key Advantages](#234-key-advantages)
 3.  [System Prompt Example](#3-system-prompt-example)
-4.  [Practical Case Studies (Today is June 1, 2025)](#4-practical-case-studies-today-is-june-1-2025)
+4.  [Practical Case Studies](#4-practical-case-studies)
     *   [4.1 Case 1: Temporal Reference + Exclusion + Complex Semantic Relations](#41-case-1-temporal-reference--exclusion--complex-semantic-relations)
     *   [4.2 Case 2: Temporal Reference + Exclusion + Numerous Keywords (Large Semantic Span)](#42-case-2-temporal-reference--exclusion--numerous-keywords-large-semantic-span)
     *   [4.3 Case 3: Temporal Reference + Exclusion + Macro-Summary Type (Short Question, Deep Understanding)](#43-case-3-temporal-reference--exclusion--macro-summary-type-short-question-deep-understanding)
@@ -308,7 +308,7 @@ Note:
 
 ---
 
-## 4. Practical Case Studies (Today is June 1, 2025)
+## 4. Practical Case Studies
 
 ### 4.1 Case 1: Temporal Reference + Exclusion + Complex Semantic Relations
 
